@@ -1,13 +1,12 @@
 - 👋 Hi, I’m Hyunjoo. But also can be @hyeonjoo
 - 👀 Now I’m interested in
-  Frontend development,
-  Reading books,
-  Giggling at funny videos,
-  Playing piano,
+  - Frontend development
+  - Reading books
+  - Giggling at funny videos
+  - Playing piano
 - 🌱 I keep learning
-  Frontend development,
-  Playing piano
-- 💞️ I’m looking to collaborate on ...
+  - Frontend development
+  - Playing piano
 - 📫 How to reach me : hyunjoopark0208@gmail.com
 
 <!---
