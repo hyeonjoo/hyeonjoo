@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hyeonjoo
+- 👋 Hi, I’m Hyunjoo. But also can be @hyeonjoo
 - 👀 Now I’m interested in
   Frontend development,
   Reading books,
