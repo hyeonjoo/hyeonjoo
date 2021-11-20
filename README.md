@@ -2,10 +2,6 @@
 - 👀 Now I’m interested in
   - Frontend development
   - Reading books
-  - Giggling at funny videos
-  - Playing piano
-- 🌱 I keep learning
-  - Frontend development
   - Playing piano
 - 📫 How to reach me : hyunjoopark0208@gmail.com
 
