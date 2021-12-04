@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hyunjoo. But also can be @hyeonjoo
 - 👀 Now I’m interested in
-  - Frontend development
+  - Frontend web development
   - Reading books
   - Playing piano
 - 📫 How to reach me : hyunjoopark0208@gmail.com
