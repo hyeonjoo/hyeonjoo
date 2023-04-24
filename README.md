@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Hyunjoo. But also can be @hyeonjoo
-- 👀 Now I’m interested in
+- 👀 I’m interested in
   - Frontend web development
   - Reading books
   - Playing piano
-- 📫 How to reach me : hyunjoopark0208@gmail.com
+- 📫 Reach me: hyunjoopark0208@gmail.com
 
 <!---
 hyeonjoo/hyeonjoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
